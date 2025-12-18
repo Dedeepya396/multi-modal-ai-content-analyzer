@@ -1,0 +1,10 @@
+gradio
+torch
+torchvision
+transformers
+Pillow
+opencv-python
+librosa
+numpy
+openai
+groq
